@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<title>Cyberweerbaarheid Check</title>
+<style>
+    body {
+        font-family: Arial;
+        text-align: center;
+        background: #f4f6f8;
+        padding: 40px;
+    }
+    h1 { color: #2c3e50; }
+    p { font-size: 18px; }
+</style>
+</head>
+
+<body>
+
+<h1>⚠️ Cyberbewustzijn Check</h1>
+
+<p>Je bent zojuist doorgestuurd via een link.</p>
+
+<p><strong>Dit is een herinnering om je cyberweerbaarheid te vergroten.</strong></p>
+
+<p>Neem even de tijd om stil te staan bij veilig online gedrag en volg de cyberweerbaarheidscursus.</p>
+
+<hr>
+
+<p>En… onthoud:</p>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1"
+frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+</iframe>
+
+</body>
+</html>
